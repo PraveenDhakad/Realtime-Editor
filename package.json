@@ -1,0 +1,15 @@
+{
+    "name": "realtime-editor",
+    "version": "1.0.0",
+    "main": "main.js",
+    "devDependencies": {
+        "electron": "^9.1.2"
+    },
+    "scripts": {
+        "start": "electron ."
+    },
+    "dependencies": {
+        "socket.io": "^2.3.0",
+        "socket.io-client": "^2.3.0"
+    }
+}
